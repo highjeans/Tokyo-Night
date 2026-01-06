@@ -1,6 +1,6 @@
 <h1 align="center">Tokyo Night</h1>
 
-![](https://github.com/Dyzean/Tokyo-Night/blob/main/src/assets/preview.png?raw=true)
+![](https://github.com/highjeans/Tokyo-Night/blob/main/src/assets/preview.png?raw=true)
 
 <p align="center">A clean, dark, Discord port of the V.S. Code <a href="https://github.com/enkia/tokyo-night-vscode-theme">Tokyo Night</a> theme.</p>
 
@@ -34,12 +34,12 @@ If it has stuff that's too hard to read or colors that you find more pleasing, m
 3. In the input field under "THEMES" paste the following URL.
 
 ```
-https://raw.githubusercontent.com/warquys/Tokyo-Night/main/themes/tokyo-night.theme.css
+https://raw.githubusercontent.com/highjeans/Tokyo-Night/main/themes/tokyo-night.theme.css
 ```
 
 ##### Local Theme Method
 
-1. Go [here](https://github.com/warquys/Tokyo-Night/main/themes/tokyo-night.theme.css) and download the theme file.
+1. Go [here](https://github.com/highjeans/Tokyo-Night/main/themes/tokyo-night.theme.css) and download the theme file.
 2. Place it in the Vencord themes folder
 3. Go to user settings (CTRL + ,)
 4. Go to the "Vencord" category and select the "Themes" tab, then go to the "Local Themes" section.
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/warquys/Tokyo-Night/main/themes/tokyo-night.th
 ### Stylus | Extension: [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us)
 
 > [!Note]
-> To be able to customize this theme, please fork using [this link](https://github.com/Dyzean/Tokyo-Night/fork) and follow the instructions in `tokyo-night.user.css` starting at line 12.
+> To be able to customize this theme, please fork using [this link](https://github.com/highjeans/Tokyo-Night/fork) and follow the instructions in `tokyo-night.user.css` starting at line 12.
 
 1. Open [this link](https://github.com/Dyzean/Tokyo-Night/blob/main/themes/tokyo-night.user.css) in a new browser tab.
 2. Press the `Install Style` button.

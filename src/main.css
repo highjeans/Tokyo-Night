@@ -705,13 +705,16 @@ svg[fill="hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%)"] {
 
 /* ~~~~		  		Settings Modal							~~~~ */
 
-._23e6b439306f125a-contentRegionScroller,
-._23e6b439306f125a-tools {
-  background-color: var(--background-tertiary) !important;
+._409aa1aeee28d5f7-sidebar {
+    background-color: var(--background-tertiary);
 }
 
-._23e6b439306f125a-sidebarRegionScroller {
-  background-color: var(--background-secondary) !important;
+._409aa1aeee28d5f7-fixedContent::after {
+    background: linear-gradient(to bottom,var(--background-tertiary),transparent);
+}
+
+.e9e3ed8b8badfe05-content, .e9e3ed8b8badfe05-contentHeader {
+    background-color: var(--background-secondary);
 }
 
 .theme-light .c2b141c0f80863fb-closeButton {
